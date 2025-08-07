@@ -1,4 +1,6 @@
-#!/usr/bin/env python3
+nothing to commit, working tree clean
+
+!/usr/bin/env python3
 #networkFileRW.py
 #Pamela Brauda
 #Thursday, March 3, 2022
@@ -145,7 +147,5 @@ def main():
 #top-level scope check
 if __name__ == "__main__":
     main()
-
-
 
 
