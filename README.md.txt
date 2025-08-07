@@ -1,0 +1,1 @@
+Contains "networkFileRW" and dtat from two files "equip_r.txt and "equip_s.txt
